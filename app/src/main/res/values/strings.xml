@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="long_dummy_text" >Mulai dengan mengklik tombol Pick a platform. Lalu, klik tombol Enable service for my Android App. Saat kamu melakukannya, kamu akan diminta untuk memasukkan sebuah nama dan nama paket untuk aplikasi Android-mu. Pastikan bahwa nama paket Android yang kamu sediakan cocok dengan nama paket yang kamu masukkan saat kamu membuat proyek Android Studio.</string>
+</resources>
